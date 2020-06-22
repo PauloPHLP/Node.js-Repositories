@@ -7,7 +7,7 @@
 ## 🔎️ Description
 Back-end side of Repositories project.
 
-This project was made during the GoStack Boot Camp in 2020.
+This project was made during the <a href="https://rocketseat.com.br/gostack">GoStack Boot Camp</a> in 2020.
 
 ## 🚀️ Technologies
 
